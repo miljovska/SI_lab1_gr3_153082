@@ -9,7 +9,13 @@ kokakola
 70
 156
 kremsir
-50
+45
 157
 brasno
 60
+158
+makaroni 
+50
+159
+salama
+34

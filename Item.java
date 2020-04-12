@@ -57,3 +57,11 @@ class Item {
 		return taxr;
 	}
 }
+class Receipt{
+
+	List<Item> artikli=new List<Item>();
+
+	public void dodadi(Item item) {
+		artikli.add(item);
+	}
+}
