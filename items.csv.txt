@@ -1,0 +1,15 @@
+153
+leb
+20
+154
+mleko
+50
+155
+kokakola 
+70
+156
+kremsir
+50
+157
+brasno
+60
